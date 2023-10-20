@@ -1,0 +1,14 @@
+.logo{
+    display: flex;
+    justify-content: center;
+}
+
+.barraFuncoes{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 2rem;
+}
+
+
+
